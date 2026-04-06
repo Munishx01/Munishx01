@@ -92,9 +92,9 @@ Data Analyst with **2+ years of hands-on experience** in data analysis, machine 
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/munishkumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/munish-kumar-22882b184)
 [![Email](https://img.shields.io/badge/Email-mk611453@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mk611453@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/munishkumar)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Munishx01)
 
 ---
 
