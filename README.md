@@ -82,7 +82,7 @@ Data Analyst with **2+ years of hands-on experience** in data analysis, machine 
 
 ## 🏆 Achievements
 
-- 🎓 **GATE Qualified** — Demonstrates strong analytical & problem-solving skills
+- 🎓 **GATE Qualified** - Demonstrates strong analytical & problem-solving skills
 - ⚡ **40% reduction** in reporting time through automation at Cognifyz Technologies
 - 📊 Analyzed **100,000+ records** using Python & SQL for business insights
 - 📱 Built real-time dashboards enabling live business decision-making
