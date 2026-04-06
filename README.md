@@ -9,8 +9,7 @@
 
 Data Analyst with **2+ years of hands-on experience** in data analysis, machine learning, and business intelligence. I transform raw data into actionable insights that drive real business decisions.
 
-- 🔭 Currently working on: **Customer Churn Prediction** & **E-Commerce Analytics**
-- 🌱 Learning: Advanced ML, MLOps, Cloud Analytics (Azure/GCP)
+
 
 - 💼 Former Data Analyst Intern at **Cognifyz Technologies**
 - ⚡ Fun fact: I automated reporting workflows that saved **40% manual effort**
