@@ -1,6 +1,6 @@
 # Hi, I'm Munish Kumar 👋
 
-**Data Analyst | Python | SQL | Machine Learning | Power BI**  
+**Data Analyst | Python | SQL | Machine Learning | Advanced Excel | Power BI**  
 📍 Palampur, Himachal Pradesh | 📧 mk611453@gmail.com
 
 ---
@@ -11,7 +11,7 @@ Data Analyst with **2+ years of hands-on experience** in data analysis, machine 
 
 - 🔭 Currently working on: **Customer Churn Prediction** & **E-Commerce Analytics**
 - 🌱 Learning: Advanced ML, MLOps, Cloud Analytics (Azure/GCP)
-- 🎓 GATE Qualified | MCA — Central University of Himachal Pradesh
+
 - 💼 Former Data Analyst Intern at **Cognifyz Technologies**
 - ⚡ Fun fact: I automated reporting workflows that saved **40% manual effort**
 
