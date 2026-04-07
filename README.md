@@ -1,6 +1,6 @@
 # Hi, I'm Munish Kumar 👋
 
-**Data Analyst | Python | SQL | Machine Learning | Advanced Excel | Power BI**  
+**Data Analyst | Python | SQL | Machine Learning | Advanced Excel | Tableau | Power BI**  
 📍 Palampur, Himachal Pradesh | 📧 mk611453@gmail.com
 
 ---
