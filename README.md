@@ -11,7 +11,7 @@ Data Analyst with **2+ years of hands-on experience** in data analysis, machine 
 
 
 
-- 💼 Former Data Analyst Intern at **Cognifyz Technologies**
+- 💼 Former Data Analyst at **Bluestock Fintech**
 - ⚡ Fun fact: I automated reporting workflows that saved **40% manual effort**
 
 ---
