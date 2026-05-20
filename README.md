@@ -1,13 +1,13 @@
 # Hi, I'm Munish Kumar 👋
 
-**Data Analyst | Business Analyst | Data Engineer | Python | SQL | Machine Learning | Advanced Excel | Tableau | Power BI**  
+**Data Analyst | BI Developer | Data Engineer | Python | SQL | Machine Learning | Advanced Excel | Tableau | Power BI**  
 📍 Palampur, Himachal Pradesh | 📧 mk611453@gmail.com
 
 ---
 
 ## 🚀 About Me
 
-Data Analyst with **2+ years of hands-on experience** in data analysis, machine learning, and business intelligence. I transform raw data into actionable insights that drive real business decisions.
+Data Analyst with **2+ years of hands-on experience** in data analysis,data engineering, machine learning, and business intelligence. I transform raw data into actionable insights that drive real business decisions.
 
 
 
