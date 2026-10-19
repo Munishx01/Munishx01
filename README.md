@@ -1,13 +1,13 @@
 # Hi, I'm Munish Kumar 👋
 
-**Data Analyst | BI Development | Data Engineering | Python | SQL | Excel | Tableau | Power BI | Machine Learning**
+**Data Product Analysis | Business Intelligence | Data Engineering | Python | SQL | Excel | Tableau | Power BI | Machine Learning**
 📍 Palampur, Himachal Pradesh |  Gurugram | 📧 mk611453@gmail.com
 
 ---
 
 ## 🚀 About Me
 
-Data Analyst BI Engineer with hands-on experience** in data analysis,data engineering, machine learning, and business intelligence. I transform raw data into actionable insights that drive real business decisions.
+Product Data Analyst and Power BI Developer with hands-on experience in business intelligence, dashboard development, Product Analytics, SQL analytics, ETL automation, and KPI reporting. Skilled in Power BI (DAX, Power Query, RLS), SQL, Python, Tableau, Advanced Excel and AI / Machine Learning techniques for transforming complex datasets into actionable business insights. Experienced in data visualization, reporting automation, stakeholder reporting, and decision-support analytics within fintech and business environment.. I transform raw data into actionable insights that drive real business decisions.
 
 
 
@@ -86,7 +86,7 @@ Data Analyst BI Engineer with hands-on experience** in data analysis,data engine
 - ⚡ **40% reduction** in reporting time through automation at Cognifyz Technologies
 - 📊 Analyzed **100,000+ records** using Python & SQL for business insights
 - 📱 Built real-time dashboards enabling live business decision-making
-- 🤖 Achieved **85%+ accuracy** in ML classification models
+- 🤖 Achieved **91% + accuracy** 
 
 ---
 
