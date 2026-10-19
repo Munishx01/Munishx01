@@ -1,6 +1,6 @@
 # Hi, I'm Munish Kumar 👋
 
-**Product Data Analysis | Business Intelligence | Data Engineering | Python | SQL | Excel | Tableau | Power BI | Machine Learning**
+**Product Data Analysis | Business Intelligence | Data Engineering | Python | SQL | Excel | Tableau | Power BI | AI / Machine Learning**
 📍 Palampur, Himachal Pradesh |  Gurugram | 📧 mk611453@gmail.com
 
 ---
