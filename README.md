@@ -13,6 +13,7 @@ Product Data Analyst and Power BI Developer with hands-on experience in business
 
 
 - ⚡ Fun fact: I automated reporting workflows that saved **40% manual effort**
+-    Data is the new oil — I help businesses refine it into insights
 
 ---
 
