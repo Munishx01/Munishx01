@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-Product Data Analyst and Power BI Developer with hands-on experience in business intelligence, dashboard development, Product Analytics, SQL analytics, ETL automation, and KPI reporting. Skilled in Power BI (DAX, Power Query, RLS), SQL, Python, Tableau, Advanced Excel and AI / Machine Learning techniques for transforming complex datasets into actionable business insights. Experienced in data visualization, reporting automation, stakeholder reporting, and decision-support analytics within fintech and business environment.. I transform raw data into actionable insights that drive real business decisions.
+Product Data Analyst Engineer and Power BI Developer with hands-on experience in business intelligence, dashboard development, Product Analytics, SQL analytics, ETL automation, and KPI reporting. Skilled in Power BI (DAX, Power Query, RLS), SQL, Python, Tableau, Advanced Excel and AI / Machine Learning techniques for transforming complex datasets into actionable business insights. Experienced in data visualization, reporting automation, stakeholder reporting, and decision-support analytics within fintech and business environment.. I transform raw data into actionable insights that drive real business decisions.
 
 
 
